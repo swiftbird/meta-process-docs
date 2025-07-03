@@ -1,0 +1,25 @@
+{
+  "project_name": "Meta-Process Documentation Site",
+  "project_type": "Static Website",
+  "workspace_path": "/Volumes/BlueDisk/Development/meta_process_docs_20250703_141526_317da012",
+  "created_timestamp": "2025-07-03T14:15:26",
+  "assigned_ports": {
+    "dev_server": 3002,
+    "build_preview": 3003,
+    "live_reload": 3004
+  },
+  "tech_stack": {
+    "frontend": "Vanilla HTML/CSS/JS",
+    "build_tool": "Vite",
+    "styling": "Modern CSS with animations",
+    "deployment": "Static hosting ready"
+  },
+  "source_documentation": "/Volumes/BlueDisk/Development/meta_process_contexts"
+}
+  "branding": {
+    "company": "Lapis Labs",
+    "tagline": "Revolutionizing AI-driven development workflows",
+    "logo": "💎",
+    "primary_color": "#667eea",
+    "secondary_color": "#764ba2"
+  }
