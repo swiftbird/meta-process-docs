@@ -1,0 +1,30 @@
+{
+  "name": "lapis-labs-meta-process-docs",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Lapis Labs Meta-Process Documentation Site - Interactive demonstration of AI-driven development workflows",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "build-vercel": "vite build --outDir dist"
+  },
+  "keywords": [
+    "lapis-labs",
+    "meta-process",
+    "ai-development", 
+    "workflow-automation",
+    "documentation"
+  ],
+  "author": "Lapis Labs",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^7.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lapis-labs/meta-process-docs.git"
+  },
+  "homepage": "https://meta-process-docs.vercel.app"
+}
